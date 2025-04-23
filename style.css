@@ -75,10 +75,10 @@ html {
 .profile-pic {
   display: block;
   margin: 30px auto;
-  width: 130px;
-  height: 130px;
+  width: 160px;
+  height: 160px;
   border-radius: 50%;
   object-fit: cover;
   border: 3px solid #4b0082
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
