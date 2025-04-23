@@ -33,4 +33,23 @@ footer {
     padding: 1rem 0;
     margin-top: 20px;
 }
+#certifications {
+  margin-top: 40px;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+}
 
+#certifications h2 {
+  font-size: 1.6em;
+  color: #4b0082;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+#certifications ul {
+  list-style-type: disc;
+  padding-left: 40px;
+  line-height: 1.6;
+  color: #333;
+}
